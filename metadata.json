@@ -1,0 +1,7 @@
+{
+  "name": "NaijaMath Engine",
+  "description": "An offline-first Nigerian secondary-school mathematics engine designed for JSS and SS levels, providing syllabus-aligned learning, practice, and deterministic step-by-step solutions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
